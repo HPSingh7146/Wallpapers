@@ -19,3 +19,8 @@ You can update the wallpapers with
 cd ~/wallpaper
 ./install.sh
 ```
+
+## Credits
+
+Special thanks to the following sources for some of the wallpapers included in this collection:
+https://github.com/mylinuxforwork
