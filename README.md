@@ -22,5 +22,5 @@ cd ~/wallpaper
 
 ## Credits
 
-Special thanks to the following sources for some of the wallpapers included in this collection:
+Special thanks to the following sources for some of the wallpapers included in this collection:  
 https://github.com/mylinuxforwork
