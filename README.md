@@ -9,7 +9,7 @@ Just clone this repository
 ```
 git clone https://github.com/HPSingh7146/Wallpapers
 ```
-There should be a folder name Wallpapers once cloning is done
+There should be a folder name `Wallpapers` once cloning is done
 
 ## Update
 
