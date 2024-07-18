@@ -1,16 +1,15 @@
 # Wallpaper collection
 
 My personal wallpaper collection
-<!-- 
+
 ## Installation
 
-Clone the directory from your home directory.
+Just clone this repository
 
 ```
-cd
-git clone --depth=1 https://gitlab.com/stephan-raabe/wallpaper.git
-cd wallpaper/
-``` -->
+git clone https://github.com/HPSingh7146/Wallpapers
+```
+There should be a folder name Wallpapers once cloning is done
 
 ## Update
 
