@@ -4,7 +4,7 @@ My personal wallpaper collection
 
 ## Installation
 
-Just clone this repository
+Just clone this repository in home directory
 
 ```
 git clone https://github.com/HPSingh7146/Wallpapers
